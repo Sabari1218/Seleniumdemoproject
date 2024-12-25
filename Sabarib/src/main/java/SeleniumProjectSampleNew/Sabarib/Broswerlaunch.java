@@ -26,7 +26,7 @@ public class Broswerlaunch {
 		
 		driver.findElement(By.name("my-textarea")).sendKeys("Beasant Technology");
 
-		Thread.sleep(5000);
+		Thread.sleep(3000);
 		
 		driver.close();	
 		
